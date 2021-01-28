@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
-    implementation("io.vertx", "vertx-web", "4.0.0.Beta3")
+    implementation("io.vertx", "vertx-web", "4.0.0")
     testCompile("junit", "junit", "4.12")
 }
 
